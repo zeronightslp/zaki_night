@@ -1,7 +1,7 @@
 # zaki_night
  > Zakinight é um sistema de alto desempenho desenvolvido com JavaScript para criar um bot para WhatsApp, suporte para criar qualquer interação, como atendimento ao cliente, envio de mídia, reconhecimento de sentenças baseado em inteligência artificial e todos os tipos de arquitetura de design para WhatsApp.
 
-## Comece rápido e fácil! API oficial!
+## Comece agora usando a api do Venom-bot
 
 É uma API alternativa de alto desempenho para o whatzapp, você pode enviar mensagens de texto, arquivos, imagens, vídeos e muito mais.
 
@@ -16,7 +16,7 @@ Use-o em sua linguagem favorita como PHP, Python, C# e outros. desde que seu idi
 
 |                                                               |   |
 |---------------------------------------------------------------|---|
-| 🚻 | de atualização automática de QR ✔ |
+| 🚻 Atualização automática de QR  | ✔ |
 | 📁 Enviar **texto, imagem, vídeo, áudio e docs** | ✔ |
 | 👥 Obtenha **contatos, chats, grupos, membros do grupo, Lista de blocos** | ✔ |
 | 📞 Envie contatos | ✔ |
@@ -25,10 +25,10 @@ Use-o em sua linguagem favorita como PHP, Python, C# e outros. desde que seu idi
 | Envie adesivos GIF | ✔ |
 | Sessões múltiplas | ✔ |
 | ⏩ Mensagens de encaminhamento | ✔ |
-| 📥 Receba | mensagens ✔ |
+| 📥 Receba mensagens  | ✔ |
 | 👤 inserir seção de usuário | ✔ |
 | 📍 Envie localização!! | ✔ |
-| 🕸🕸 **e muito mais** | ✔ |
+|**e muito mais** | ✔ |
 
 ## Instalação
 
@@ -68,7 +68,7 @@ function start(client) {
   });
 }
 ```
-###### Depois de executar a função 'create()', **venom** criará uma instância da web do whatsapp. Se você não estiver logado, imprimirá um código QR no terminal. Escaneie com seu telefone e você está pronto para ir!
+###### Depois de executar a função 'create()', **Zaki** criará uma instância da web do whatsapp. Se você não estiver logado, imprimirá um código QR no terminal. Escaneie com seu telefone e você está pronto para ir!
 
 ##### Zaki se lembrará da sessão para que não haja necessidade de autenticar todas as vezes.
 
@@ -159,7 +159,7 @@ venom
 Obtém o retorno se a sessão estiver 'isLogged' ou 'notLogged' ou 'browserClose' ou 'qrReadSuccess' ou 'qrReadFail' ou 'autocloseCalled' ou 'desconectadoMobilizar' ou 'excluirToken' ou 'chats Disponível' ou dispositivo 'Não Conectado' ou 'serverWssNotConnected' ou 'noOpenBrowser' ou 'Criar sessão wss retornar servidor de caso "serverClose" para fechar'
 
 
-| Status                  | Condição                                                                                                                                                      |
+| Status                  | Condição                                                                                                                                             
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | `isLogged`              | Quando o usuário já está logado no navegador                                                                                                  |
 | `notLogged`             | Quando o usuário não está conectado ao navegador, é necessário digitalizar o código QR através do celular na opção WhatsApp Web                    
