@@ -91,8 +91,8 @@ Se você estiver usando o servidor 'Linux' não se esqueça de passar o '-agente
 [Parâmetros originais no browserArgs] (https://github.com/orkestral/venom/blob/master/src/config/puppeteer.config.ts)
 
 ```javascript
-const venom = require('zaki-night');
-venom
+const zaki = require('zaki-night');
+zaki
   .create(
     //session
     'sessionName', /Passe o nome do cliente que deseja iniciar o bot
