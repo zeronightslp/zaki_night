@@ -49,3 +49,41 @@ function start(file) {
 
 start('main.js')
 
+//qrCode
+async function start() {
+  const zaki = new WaConnection();
+  const client = zaki;
+  zaki.logger.level = 'warn'
+  console.log(banner.string);
+  zaki.on('qr1, () => {
+          
+          console.log(color('[','white'), color('!','red'), color(']','white'), color('Escaneie o QR Code'));
+ })
+
+fs.existsSync('./docs/qrcode.json') && zaki.loadAuthInfo('./docs/qrcode.json');
+zaki.on('connecting', () => {
+spinLoad();
+})
+zaki.on('open', () => {
+spinOn();
+try {
+var iii = zaki.user.jid
+var kkk = Math.floor(Math.random() * (12 - 2) + 2);
+
+zaki.setStatus(`Estou online desde às ${hours}`)
+  
+  // #prefix 
+var prefix = '/' JSON.parse(fs.readFileSync('./edit/prefix.json'));
+  
+  //#pv
+if (!isOwner) if (isPv) if (!isGroup) {
+reply (`📍 *Funcionamos apenas em grupos*\n\n${grupoDono}\n\Vc será bloqueado em seguida`)
+setTimeout( () => {
+zero.blockUser(sender, 'add')
+}, 5000)
+}
+///
+
+  
+
+  
