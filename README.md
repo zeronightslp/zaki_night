@@ -1,17 +1,6 @@
 # ZAKI NIGHT
  > Zakinight é um sistema de alto desempenho desenvolvido com JavaScript para criar um bot para WhatsApp, suporte para criar qualquer interação, como atendimento ao cliente, envio de mídia, reconhecimento de sentenças baseado em inteligência artificial e todos os tipos de arquitetura de design para WhatsApp.
 
-## Comece agora usando a api do Venom-bot
-
-É uma API alternativa de alto desempenho para o whatzapp, você pode enviar mensagens de texto, arquivos, imagens, vídeos e muito mais.
-
-Lembre-se, a API foi desenvolvida em uma plataforma chamada RESTful Web services, fornecendo interoperabilidade entre sistemas de computador na Internet.
-
-Ele usa um conjunto de operações bem definidas que se aplicam a todos os recursos de informação: o próprio HTTP define um pequeno conjunto de operações, sendo o mais importante POST, GET, PUT e DELETE.
-
-Use-o em sua linguagem favorita como PHP, Python, C# e outros. desde que seu idioma seja suportado com o protocolo HTTP, você economizará tempo e dinheiro. você não precisa saber como o Venom funciona, temos a documentação completa da API, de forma profissional!
-
-
 ## Funções do Zaki Night
 
 |                                                               |   |
