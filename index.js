@@ -79,10 +79,12 @@ var prefix = '/' JSON.parse(fs.readFileSync('./edit/prefix.json'));
 if (!isOwner) if (isPv) if (!isGroup) {
 reply (`📍 *Funcionamos apenas em grupos*\n\n${grupoDono}\n\Vc será bloqueado em seguida`)
 setTimeout( () => {
-zero.blockUser(sender, 'add')
+zaki.blockUser(sender, 'add')
 }, 5000)
 }
 ///
+  
+  
 
   
 
