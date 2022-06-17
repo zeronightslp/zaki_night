@@ -30,6 +30,7 @@ chave de pagamento:
 
 ### Dono 
 Zeronight | https://wa.me/994406752627
+
 PedroHkkl | https://wa.me/5511971312952
 
 ### Bot
