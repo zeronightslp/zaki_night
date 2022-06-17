@@ -29,8 +29,8 @@ chave de pagamento:
 ## Contato
 
 ### Dono 
-Zeronight | wa.me/994406752627
-PedroHkkl | wa.me/5511971312952
+Zeronight | https://wa.me/994406752627
+PedroHkkl | https://wa.me/5511971312952
 
 ### Bot
-Zaki Night | wa.me/5511941231419
+Zaki Night | https://wa.me/5511941231419
