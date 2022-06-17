@@ -24,11 +24,13 @@
 o zaki é um bot alugavél, funciona mensalmente o valor é 10r$
 para por em seu grupo mande o link no privado.
 
+chave de pagamento: 
+
 ## Contato
 
-# dono 
+### Dono 
 Zeronight | wa.me/994406752627
 PedroHkkl | wa.me/5511971312952
 
-# bot
+### Bot
 Zaki Night | wa.me/5511941231419
