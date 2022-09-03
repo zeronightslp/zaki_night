@@ -29,7 +29,7 @@ chave de pagamento:
 ## Contato
 
 ### Dono 
-Zeronight | https://wa.me/994406752627
+Zeronight | https://wa.me/5511941231419
 
 PedroHkkl | https://wa.me/5511971312952
 
