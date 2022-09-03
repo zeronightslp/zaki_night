@@ -32,6 +32,3 @@ chave de pagamento:
 Zeronight | https://wa.me/5511941231419
 
 PedroHkkl | https://wa.me/5511971312952
-
-### Bot
-Zaki Night | https://wa.me/5511941231419
